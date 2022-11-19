@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3057003775ca4ecfcea0ef8aad15614efa60bb61",
+  "SCAN_LINK": "https://polygonscan.com/address/0x3057003775ca4ecfcea0ef8aad15614efa60bb61",
+
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "OG OctoPeeps",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/octopeeps",
+  "SHOW_BACKGROUND": true
+}
